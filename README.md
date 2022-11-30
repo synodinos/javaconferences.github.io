@@ -8,7 +8,7 @@
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no | 16 March 2023 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | 22-24 March 2023 | [Link](https://vdbuh23.cfp.dev/) |
-| [QCon London](https://qconlondon.com) | London, UK | no | 27-29 March 2023 | - |
+| [QCon London](https://qconlondon.com) | London, UK | yes | 27-29 March 2023 | - |
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 April 2023 | [Link](https://devnexus.com/call-for-papers) |
 | [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | 12-14 April 2023 | [Link](https://cfp.devoxx.fr/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 25-28 April 2023 | - |
@@ -41,7 +41,7 @@
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 10-14  October 2022 | - |
 | [I Code Java](https://j-sa.co) | Johannesburg, South Africa | yes | 12-14 October 2022 | - |
 | [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 19-20 October 2022 | - |
-| [QCon SF](https://qconsf.com) | San Francisco, CA, USA | no | 24-28 October 2022 | - |
+| [QCon SF](https://qconsf.com) | San Francisco, CA, USA | yes | 24-28 October 2022 | - |
 | [JConf Peru 2022](https://jconf.perujug.org/) | online | no | 26 October 2022 | - |
 | JJUG CCC Fall | Tokyo, Japan | no | 27 November 2022 | [Link](https://fortee.jp/jjug-ccc-2022-fall) |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 3 November 2022 | [Link](https://sessionize.com/jfall22/) |
